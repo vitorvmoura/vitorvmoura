@@ -28,4 +28,4 @@ Atualmente focado em desenhar e implementar infraestruturas escaláveis, seguras
 ---
 
 ### 📊 GitHub Stats
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vitorvmoura&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vitorvmoura&show_icons=true&theme=tokyonight)
