@@ -1,6 +1,6 @@
 # Olá, eu sou o Vitor Moura! 👋
 
-### ☁️ Cloud & DevOps Engineer em formação
+### ☁️ Cloud & DevOps Engineer
 Atualmente focado em desenhar e implementar infraestruturas escaláveis, seguras e automatizadas na nuvem. Sou um entusiasta de Linux e defensor da cultura "Infrastructure as Code".
 
 ---
